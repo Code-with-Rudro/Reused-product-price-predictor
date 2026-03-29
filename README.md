@@ -382,7 +382,13 @@ Streamlit displays the estimated price to the user
 
 ---
 <div>
-  ![Screenshot]()
+  ![Screenshot](https://github.com/Code-with-Rudro/Reused-product-price-predictor/blob/main/Screenshot%202026-03-29%20210734.png)
+   ![Screenshot](https://github.com/Code-with-Rudro/Reused-product-price-predictor/blob/main/WhatsApp%20Image%202026-03-29%20at%2011.16.57%20PM%20(2).jpeg)
+    ![Screenshot](https://github.com/Code-with-Rudro/Reused-product-price-predictor/blob/main/WhatsApp%20Image%202026-03-29%20at%2011.16.57%20PM%20(2).jpeg)
+        ![Screenshot](https://github.com/Code-with-Rudro/Reused-product-price-predictor/blob/main/WhatsApp%20Image%202026-03-29%20at%2011.16.57%20PM.jpeg)
+    
+   
+  
 </div>
 
 ## 👥 Team
