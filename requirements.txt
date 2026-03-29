@@ -20,4 +20,5 @@ threadpoolctl==3.6.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2025.3
+streamlit==1.30.0
 uvicorn==0.42.0
