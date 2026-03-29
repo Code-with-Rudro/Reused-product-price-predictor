@@ -381,6 +381,9 @@ Streamlit displays the estimated price to the user
 - [ ] Confidence interval / price range output
 
 ---
+<div>
+  ![Screenshot]()
+</div>
 
 ## 👥 Team
 
