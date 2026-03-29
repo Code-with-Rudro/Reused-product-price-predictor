@@ -389,7 +389,7 @@ Built with ❤️ by **Team Gandiva** at the **Tech Arena Hackathon**, NRIIT Col
 | Name | Role |
 |---|---|
 | 👑 **Rudro Prasad Panigrahi** | Team Leader |
-| **Seera Kiran Kumar** | Member |
+| **Seera Kiran Kumar** | Frontend dev|
 | **Ponruru Promod** | Member |
 | **Sk. Muzamill** | Member |
 
